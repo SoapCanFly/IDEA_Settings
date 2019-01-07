@@ -1,0 +1,23 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="removedPositive">
+      <list>
+        <option value="at org.springframework.web.method." />
+        <option value="at org.junit.runners." />
+        <option value="com.intellij.openapi.command.WriteCommandAction" />
+        <option value="at org.junit.runner.JUnitCore." />
+        <option value="at org.junit.vintage." />
+        <option value="at org.testng.internal." />
+        <option value="at org.junit.platform." />
+        <option value="at org.testng.TestRunner." />
+        <option value="at org.testng.SuiteRunner." />
+        <option value="at org.testng.TestNG.run" />
+        <option value="at sun.rmi." />
+        <option value="at org.junit.jupiter.api.AssertionUtils.fail(" />
+        <option value="at org.springframework.web.servlet." />
+        <option value="at org.springframework.web.filter." />
+        <option value="at sun.reflect." />
+      </list>
+    </option>
+  </component>
+</application>

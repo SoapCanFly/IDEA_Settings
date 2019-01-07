@@ -1,0 +1,24 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="entitySuffix" value="DO" />
+    <option name="generateDefaultRelationships" value="true" />
+    <option name="ENTITY_SUFFIX" value="DO" />
+    <option name="GENERATE_DEFAULT_RELATIONSHIPS" value="true" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://119.29.2.82/svn/Groot/guns" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://119.29.2.82/svn/Groot/guns" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
+  </component>
+</application>
