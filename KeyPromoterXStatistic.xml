@@ -185,6 +185,14 @@
           <Count>34</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'npm'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'npm'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Delete Rows">
         <Item>
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
@@ -654,7 +662,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
