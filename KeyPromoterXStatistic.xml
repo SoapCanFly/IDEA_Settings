@@ -497,6 +497,14 @@
           <Count>44</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'AppRun'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'AppRun'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ClementineApplicatio...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -702,7 +710,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AppRun'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ClementineApplication'">
