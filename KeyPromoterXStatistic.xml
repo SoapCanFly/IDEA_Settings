@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'AppRun'</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ClementineApplication'">
@@ -510,7 +510,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'AppRun'</Description>
-          <Count>4</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ClementineApplicatio...'">
@@ -718,7 +718,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AppRun'</Description>
-          <Count>13</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ClementineApplication'">
@@ -926,7 +926,7 @@
           <IdeaActionID>AliP3CInspectionAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+J'</ShortCut>
           <Description>编码规约扫描</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
     </option>
