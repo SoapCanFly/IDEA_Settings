@@ -561,6 +561,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ImageUrlReader.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'ImageUrlReader.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'JAViewer'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
