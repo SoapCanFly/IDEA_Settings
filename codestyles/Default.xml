@@ -14,6 +14,8 @@
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="CALL_PARAMETERS_WRAP" value="5" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
