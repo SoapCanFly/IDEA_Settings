@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'InfoSpider'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MeikeApplication'">
@@ -911,6 +911,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ImageTransfer'</Description>
           <Count>35</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'InfoSpider'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'InfoSpider'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MeikeWebApplication'">
