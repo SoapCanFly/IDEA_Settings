@@ -242,6 +242,10 @@
           <option name="url" value="https://gitee.com/scottnyang/image_transfer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:yadong.zhang/blog-hunter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\java\Scooooooooott" />

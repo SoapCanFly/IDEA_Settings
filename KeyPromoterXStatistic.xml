@@ -641,12 +641,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'InfoSpider'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'InfoSpider'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'InfoSpider.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'InfoSpider.main()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'JAViewer'">
