@@ -561,6 +561,14 @@
           <Count>45</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ApexLegendsToolApplicationTests.tester'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ApexLegendsToolApplicationTests.tester'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ApexlegendstoolAppli...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
