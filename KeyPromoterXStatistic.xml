@@ -478,7 +478,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Properties</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -689,6 +689,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'IcbcRedPackageApplicationTests.contextLoads'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'IcbcRedPackageApplicationTests.contextLoads'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ImageTransfer'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -830,7 +838,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'contextLoads()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'db:seed_fu: mp-saas'">
