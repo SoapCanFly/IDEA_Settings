@@ -30,7 +30,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+向左箭头' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -374,7 +374,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>109</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -406,7 +406,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>134</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
