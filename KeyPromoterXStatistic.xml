@@ -462,7 +462,7 @@
           <IdeaActionID>OptimizeImports</IdeaActionID>
           <ShortCut>'Ctrl+Alt+O'</ShortCut>
           <Description>Optimize Imports</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -494,7 +494,7 @@
           <IdeaActionID>ReformatCode</IdeaActionID>
           <ShortCut>'Ctrl+Alt+L'</ShortCut>
           <Description>Reformat Code</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
