@@ -529,6 +529,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rebuild ...le 'spring-data-jpa'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Rebuild ...le 'spring-data-jpa'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Reformat Code">
         <Item>
           <IdeaActionID>ReformatCode</IdeaActionID>
