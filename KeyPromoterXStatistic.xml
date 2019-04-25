@@ -502,7 +502,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Properties</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -542,7 +542,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Remove</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -646,7 +646,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'AppRun'</Description>
-          <Count>14</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ClementineApplicatio...'">
@@ -719,6 +719,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ICBCRedEnvelopeApplication'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ICBCRedPackageApplicationTests.contextLoads'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ICBCRedPackageApplicationTests.contextLoads'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'IcbcRedPackageApplicationTests.contextLoads'">
@@ -1014,7 +1022,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AppRun'</Description>
-          <Count>27</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ClementineApplication'">
