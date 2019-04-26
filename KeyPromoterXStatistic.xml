@@ -198,7 +198,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ICBCRedEnvelopeApplication'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ICBCRedPackageApplicationTests.contextLoads'">
@@ -486,7 +486,7 @@
           <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Open Console</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -753,6 +753,14 @@
           <Count>22</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ICBCRedPackageApplicationTests.initData'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ICBCRedPackageApplicationTests.initData'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'IcbcRedPackageApplicationTests.contextLoads'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -937,6 +945,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'initData()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'initData()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'login()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1094,7 +1110,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ICBCRedEnvelopeApplication'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ICBCRedPackageApplicationTests.contextLoads'">
