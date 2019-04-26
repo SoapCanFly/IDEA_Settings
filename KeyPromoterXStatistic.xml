@@ -14,7 +14,7 @@
           <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add New Row</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add to VCS">
@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'AppRun'</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ClementineApplication'">
@@ -198,7 +198,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ICBCRedEnvelopeApplication'</Description>
-          <Count>9</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ICBCRedPackageApplicationTests.contextLoads'">
@@ -382,7 +382,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Drop</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -406,7 +406,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>112</Count>
+          <Count>113</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -518,7 +518,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Properties</Description>
-          <Count>11</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -1046,7 +1046,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AppRun'</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ClementineApplication'">
@@ -1094,7 +1094,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ICBCRedEnvelopeApplication'</Description>
-          <Count>3</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ICBCRedPackageApplicationTests.contextLoads'">
@@ -1246,7 +1246,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -1254,7 +1254,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -1278,7 +1278,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>121</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
