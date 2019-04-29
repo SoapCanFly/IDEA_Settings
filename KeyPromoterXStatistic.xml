@@ -222,7 +222,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ICBCRedPackageApplicationTests.pageQuery2'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ImageTransfer'">
@@ -1151,6 +1151,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ICBCRedPackageApplicationTests.contextLoads'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ICBCRedPackageApplicationTests.pageQuery2'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ICBCRedPackageApplicationTests.pageQuery2'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ICBC_red_envelope [compile]'">
