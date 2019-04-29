@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'AppRun'</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ClementineApplication'">
@@ -198,7 +198,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ICBCRedEnvelopeApplication'</Description>
-          <Count>114</Count>
+          <Count>115</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ICBCRedPackageApplicationTests.contextLoads'">
