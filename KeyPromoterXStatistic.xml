@@ -198,7 +198,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ICBCRedEnvelopeApplication'</Description>
-          <Count>127</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ICBCRedPackageApplicationTests.contextLoads'">
@@ -223,6 +223,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ICBCRedPackageApplicationTests.pageQuery2'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ICBCRedPackageApplicationTests.redisTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ICBCRedPackageApplicationTests.redisTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ICBCRedPackageApplicationTests.test'">
@@ -785,6 +793,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ICBCRedPackageApplicationTests.redisTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ICBCRedPackageApplicationTests.redisTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'IcbcRedPackageApplicationTests.contextLoads'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1150,7 +1166,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ICBCRedEnvelopeApplication'</Description>
-          <Count>103</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ICBCRedPackageApplicationTests.contextLoads'">
@@ -1366,7 +1382,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>183</Count>
+          <Count>184</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
