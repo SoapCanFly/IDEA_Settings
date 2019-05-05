@@ -321,6 +321,14 @@
           <Count>78</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'RedEnvelopeHistoryServiceImpl'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'RedEnvelopeHistoryServiceImpl'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'RenrenApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -478,7 +486,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>207</Count>
+          <Count>208</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -910,6 +918,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'RealworldApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RedEnvelopeHis....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'RedEnvelopeHis....main()'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
