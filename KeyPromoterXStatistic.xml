@@ -249,6 +249,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ICBCRedPackageApplicationTests.testQueryBetween'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ICBCRedPackageApplicationTests.testQueryBetween'</Description>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ImageTransfer'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -454,7 +462,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>151</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -486,7 +494,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>208</Count>
+          <Count>212</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -1057,6 +1065,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'testQueryBetween()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'testQueryBetween()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'tester()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1231,6 +1247,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ICBCRedPackageApplicationTests.test'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ICBCRedPackageApplicationTests.testQueryBetween'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ICBCRedPackageApplicationTests.testQueryBetween'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ICBC_red_envelope [compile]'">
@@ -1414,7 +1438,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>189</Count>
+          <Count>191</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
