@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'AppRun'</Description>
-          <Count>63</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ClementineApplication'">
@@ -438,7 +438,7 @@
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Disconnect</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -502,7 +502,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>261</Count>
+          <Count>264</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
