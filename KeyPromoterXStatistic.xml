@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'AppRun'</Description>
-          <Count>66</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ClementineApplication'">
@@ -1126,7 +1126,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Image Thumbnails">
@@ -1470,7 +1470,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
