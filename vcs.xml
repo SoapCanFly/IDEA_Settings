@@ -266,8 +266,12 @@
           <option name="url" value="git@github.com:binarywang/weixin-java-mp-demo-springboot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:zzzzbw/Fame.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\workspace\java\kdlq_workspace" />
+    <option name="cloneParentDir" value="D:\workspace\java" />
   </component>
 </application>
