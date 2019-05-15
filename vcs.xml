@@ -270,6 +270,10 @@
           <option name="url" value="git@github.com:zzzzbw/Fame.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Cepr0/greyhound-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workspace\java" />
