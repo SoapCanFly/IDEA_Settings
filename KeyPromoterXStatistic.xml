@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'AppRun'</Description>
-          <Count>103</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application'">
