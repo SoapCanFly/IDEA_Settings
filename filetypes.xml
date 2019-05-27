@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern=".lck" type="PLAIN_TEXT" />
       <mapping pattern="HelloWorld.class" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping pattern=".lck" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="pfx" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
